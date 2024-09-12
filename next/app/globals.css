@@ -18,3 +18,24 @@ header {
 header a {
   margin-left: 20px;
 }
+
+.post {
+  width: 500px;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  background: forestgreen;
+  color: black;
+}
+
+.post h2 {
+  margin-bottom: 20px;
+}
+
+.post p {
+  margin-bottom: 20px;
+}
+
+.post a {
+  color: aqua;
+}
